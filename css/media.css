@@ -1,0 +1,47 @@
+/*For Footer Form*/
+@media only screen and(max-width: 1317px) {
+    .column-2 {
+        margin: 0 50px !important;
+    }
+}
+
+/*End For Footer Form*/
+
+/*For Header*/
+@media only screen and(max-width: 930px) {
+    header {
+        background-size: contain;
+        height: 20% !important;
+    }
+}
+
+@media only screen and(max-width: 580px) {
+    header {
+
+        background-size: contain;
+        height: 20% !important;
+    }
+}
+
+@media only screen and (max-width: 669px) {
+    h1 {
+        display: none !important;
+    }
+
+}
+
+/*End For Header*/
+
+/*For Puzzle*/
+@media only screen and (max-width: 338px) {
+    #pics {
+        margin-left: 30% !important;
+        width: 190px;
+    }
+
+    .pics-hidden {
+        display: none !important;
+    }
+}
+
+/*End For Puzzle*/
